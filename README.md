@@ -10,12 +10,6 @@ DAB.GG Discord Game
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://github.com/Narehood/DAB.GG-Discord/pull/)&nbsp;
 
 
-
-<p align="center">
-  <img src="URLHERE" />
-  <img src="URLHERE" width="500px" height="500px"/>
-</p>
-
 ## :books: Installation Instructions
 
 
@@ -35,5 +29,3 @@ DAB.GG Discord Game
   <p align="center">
     <img src="https://dab.gg/wp-content/uploads/2019/09/cropped-logo_black_text-1.png" width="300px"/>
   </p>
-
-
