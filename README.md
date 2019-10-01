@@ -12,8 +12,8 @@ DAB.GG Discord Game
 
 
 <p align="center">
-  <img src="https://dab.gg/wp-content/uploads/2019/09/cropped-logo_black_text-1.png" />
-  <img src="https://dab.gg/wp-content/uploads/2019/09/cropped-logo_black_text-1.png" width="500px" height="500px"/>
+  <img src="URLHERE" />
+  <img src="URLHERE" width="500px" height="500px"/>
 </p>
 
 ## :books: Installation Instructions
